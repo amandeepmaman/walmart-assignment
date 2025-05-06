@@ -40,7 +40,7 @@ src/
 1. Clone the repository:
 
    ```
-   git clone [https://github.com/yourusername/chatbot-website.git](https://github.com/amandeepmaman/walmart-assignment)
+   git clone https://github.com/amandeepmaman/walmart-assignment
    cd chatbot-website
    ```
 
